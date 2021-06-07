@@ -1,5 +1,3 @@
 # Alexander Smith
 
 > Software Engineer
-
----
