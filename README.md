@@ -80,11 +80,3 @@
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
 * [Truffle](https://github.com/trufflesuite/truffle)
 * [Web3.js](https://github.com/ChainSafe/web3.js)
-
----
-
-<div style="display:grid;grid-column: 1fr 1fr 1fr;grid-gap:1rem">
-  <div style="width:100%;height:10rem;background-color:#121212">A</div>
-  <div style="width:100%;height:10rem;background-color:#121212">A</div>
-  <div style="width:100%;height:10rem;background-color:#121212">A</div>
-</div>
