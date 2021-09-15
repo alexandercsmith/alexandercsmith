@@ -7,6 +7,7 @@
 ## 🤙 Awesome
 
 * [Awesome CMS](https://github.com/postlight/awesome-cms)
+* [Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [Awesome Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
