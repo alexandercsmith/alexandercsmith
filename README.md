@@ -84,7 +84,7 @@
 ---
 
 <div style="display:grid;grid-column: 1fr 1fr 1fr;grid-gap:1rem">
-  <div style="width:100%;height:10rem;background-color:#121212"></div>
-  <div style="width:100%;height:10rem;background-color:#121212"></div>
-  <div style="width:100%;height:10rem;background-color:#121212"></div>
+  <div style="width:100%;height:10rem;background-color:#121212">A</div>
+  <div style="width:100%;height:10rem;background-color:#121212">A</div>
+  <div style="width:100%;height:10rem;background-color:#121212">A</div>
 </div>
