@@ -44,6 +44,7 @@
 ### Python
 
 * [Django](https://github.com/django/django)
+* [Flask](https://github.com/pallets/flask)
 
 ### Ruby
 
