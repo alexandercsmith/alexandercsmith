@@ -50,6 +50,7 @@
 ### Ruby
 
 * [Ruby on Rails](https://github.com/rails/rails)
+* [Sinatra](https://github.com/sinatra/sinatra)
 
 ### Swift
 
