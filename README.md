@@ -31,6 +31,8 @@
 
 ### JavaScript
 
+* [Chart.js](https://github.com/chartjs/Chart.js)
+* [D3.js](https://github.com/d3/d3)
 * [Electron.js](https://github.com/electron/electron)
 * [Express.js](https://github.com/expressjs/express)
 * [Koa.js](https://github.com/koajs/koa)
@@ -42,6 +44,11 @@
 * [Sails.js](https://github.com/balderdashy/sails)
 * [Socket.io](https://github.com/socketio/socket.io)
 * [Vue.js](https://github.com/vuejs/vue)
+  * [Vuex](https://vuex.vuejs.org/)
+  * [Vue CLI](https://cli.vuejs.org/)
+  * [Vue Loader](https://vue-loader.vuejs.org/)
+  * [Vue SSR](https://ssr.vuejs.org/)
+  * [Vue Router](https://router.vuejs.org/)
 
 ### Python
 
@@ -73,7 +80,9 @@
 * [Sushiswap](https://github.com/sushiswap/sushiswap)
 * [Uniswap/Lib](https://github.com/Uniswap/uniswap-lib)
 * [Uniswap/V2-Core](https://github.com/Uniswap/uniswap-v2-core)
+* [Uniswap/V2-Periphery](https://github.com/Uniswap/uniswap-v2-periphery)
 * [Uniswap/V3-Core](https://github.com/Uniswap/uniswap-v3-core)
+* [Uniswap/V3-Periphery](https://github.com/Uniswap/uniswap-v3-periphery)
 * [Yearn](https://github.com/yearn/yearn-protocol)
 
 ### Smart Contracts
