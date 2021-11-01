@@ -31,6 +31,7 @@
 
 ### JavaScript
 
+* [Adonis.js](https://github.com/adonisjs/core)
 * [Chart.js](https://github.com/chartjs/Chart.js)
 * [D3.js](https://github.com/d3/d3)
 * [Electron.js](https://github.com/electron/electron)
