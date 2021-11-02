@@ -45,11 +45,20 @@
 * [Socket.io](https://github.com/socketio/socket.io)
 * [Vue.js](https://github.com/vuejs/vue)
   * [Nuxt.js](https://github.com/nuxt/nuxt.js)
+    * [@nuxtjs/auth](https://dev.auth.nuxtjs.org/)
+    * [@nuxtjs/content](https://content.nuxtjs.org/)
+    * [@nuxtjs/pwa](https://pwa.nuxtjs.org/)
   * [Vuex](https://vuex.vuejs.org/)
   * [Vue CLI](https://cli.vuejs.org/)
   * [Vue Loader](https://vue-loader.vuejs.org/)
   * [Vue SSR](https://ssr.vuejs.org/)
   * [Vue Router](https://router.vuejs.org/)
+
+### CSS
+
+* [Chakra UI](https://vue.chakra-ui.com/)
+* [Material UI](https://material.io/)
+* [Tailwind CSS](https://tailwindcss.com/)
 
 ### Python
 
