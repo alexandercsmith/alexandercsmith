@@ -1,3 +1,3 @@
 # Alexander Smith
 
-> Software Engineer
+💼 Full Stack Software Engineer
