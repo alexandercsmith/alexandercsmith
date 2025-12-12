@@ -9,7 +9,7 @@ When I am not surfing the web, I am surfing the waves 🏄‍♂️ and working 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff6600?style=plastic-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic-square&logo=css&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white" />
