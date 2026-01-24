@@ -12,6 +12,7 @@ When I am not surfing the web, I am surfing the waves 🏄‍♂️ and working 
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
+  <img alt="Bun.js" src="https://img.shields.io/badge/Bun.js-1f2937?style=plastic&logo=bun&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white" />
   <img alt="React.js" src="https://img.shields.io/badge/-React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" />
