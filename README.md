@@ -1,8 +1,8 @@
 # Hello, I am Alexander Smith 👋
 
-I am a senior software engineer working primarily with Ruby on Rails and Node.js applications. I enjoy working on mobile iOS applications in my free time. I have worked in many diverse industries from event entertainment, finance, sports management, data centers and professional consultations.
+I am a senior software engineer working primarily with Ruby on Rails and JavaScript/TypeScript applications. I enjoy working on mobile iOS applications in my free time. I have worked in many diverse industries from event entertainment, finance, sports management, data centers and professional consultations.
 
-When I am not surfing the web, I am surfing the waves 🏄‍♂️ and working on my golf swing 🏌️‍♂️.
+When I am not surfing the web, I am surfing the waves 🏄‍♂️ and working on my golf swing 🏌️‍♂️
 
 ## Toolbox
 
